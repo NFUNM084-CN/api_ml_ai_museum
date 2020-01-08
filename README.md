@@ -26,5 +26,6 @@
 - 使用馆内求助的流程  
 ![流程3](https://github.com/NFUNM084-CN/api_ml_ai_museum/blob/master/%E6%B5%81%E7%A8%8B3.png "流程3")  
 ### 交互界面设计  
-[点击查看原型](https://NFUNM084-CN.github.io "原型地址")  
+[点击查看原型](http://nfunm084.gitee.io/api_museum_prototype "原型地址")  
 - 由于供身障人士和多动症人士使用，所以界面以简洁直接为主，不需要太多的操作即可使用。
+- 如在本页面看不到流程图，请点击原型查看流程页
